@@ -12,6 +12,13 @@ header{
     background-color: #C4C4C4;
     padding: 64px 38px;
 }
+header h1{
+    float: left;
+    margin-right: 300px;
+}
+header nav{
+    margin-top: 10px;
+}
 header li{
     float: left;
     margin-right: 20px;
